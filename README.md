@@ -25,3 +25,43 @@
 - [直播源列表转换](https://guihet.com/tvlive-telelist.html) (转换格式供多种播放器使用)
 ### 关于PLTV回看 
 部分带PLTV的链接支持7天回看，支持回看的播放器可以直接调用，不支持的也可以通过自定义来实现回看，不过要自己查一下节目单。在地址最后加上?playseek=开始时间-结束时间 (如?playseek=20200722222222-20200722223222代表2020年7月22日22时22分22秒之后的10分钟片段)，再将地址里的PLTV改成TVOD即可播放 例:[直播格式](http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8) [回看格式](http://183.207.248.108/ott.js.chinamobile.com/TVOD/3/224/3221227581/index.m3u8?playseek=20200722222222-20200722223222)
+
+
+# 【优先】APTK更新地址
+http://aktv.top/live.txt
+# 【优先】肥羊-见telegram
+
+# 公众号榴芒电视 找资源
+
+# YanG-1989
+# https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+# 潇洒 https://github.com/PizazzGY/TVbox
+# https://gh.aptv.app/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+# https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+
+# hw2837
+# https://gitee.com/hw2837/iptv/raw/master/ipv6.txt
+
+#挺好直播源
+http://ztha.top/TVBox/tv/thtv.txt
+
+# https://m3u.ibert.me/txt/fmml_dv6.txt
+# https://m3u.ibert.me/txt/o_cn.txt
+# https://m3u.ibert.me/txt/j_iptv.txt
+# https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt
+# https://gitlab.com/hewittchoi/tvlist/-/raw/main/cai.txt
+# https://blog.4dz.top:18443/zhiboyuan/直播源.txt
+# http://39.101.135.137:8081/zb.txt
+# https://iptv.b2og.com/txt/fmml_ipv6.txt
+# https://iptv.b2og.com/txt/y_g.txt
+# https://iptv.b2og.com/txt/ycl_iptv.txt
+
+# sili126每日更新，酒店源，质量不高，https://github.com/ssili126/tv
+#https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+#https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+
+
+# IPTV直播源，分类的，太卡，https://iptv.hacks.tools/
+#https://live.hacks.tools/tv/iptv4.txt
+#https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
